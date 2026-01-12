@@ -1,4 +1,3 @@
-# Odin-recipes
 # My First Webpage Project
 
 This project is a practice HTML website that includes links, images, and text formatting. 
